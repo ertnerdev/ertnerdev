@@ -1,4 +1,4 @@
-- 👋 Hello World, I’m @E10117
+- 👋 Hello World, I’m @ertnerdev
 - 👀 I’m interested in Computer Science. :)
 - 🌱 I’m currently learning Russian / Cooking / Doing all kinds of Watersports.
 - 💞️ I’m looking to collaborate on cool projects. :)
